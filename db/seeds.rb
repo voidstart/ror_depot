@@ -15,4 +15,12 @@ CoffeeScript is a little language that compiles into JavaScript. Underneath that
 </p>},
 image_url: 'http://jashkenas.github.io/coffee-script/documentation/images/logo.png',
 price: 36.99)
+Product.create(title: 'JavaScript',
+description:
+%{<p>
+Web lanaguage
+</p>},
+image_url: 'http://jashkenas.github.io/coffee-script/documentation/images/logo.png',
+price: 36.99)
+
 
